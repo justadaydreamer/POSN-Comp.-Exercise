@@ -14,4 +14,6 @@ int main(){
     
     printf("The area and circumference : \n");
     printf("%f\t%f\n", area,circumference);
+    
+    return 0;
 }
