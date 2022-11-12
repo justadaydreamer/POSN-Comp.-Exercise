@@ -11,4 +11,6 @@ int main(){
 
     value = ++inc;
     printf("%d\n", value);
+    
+    return 0;
 }
